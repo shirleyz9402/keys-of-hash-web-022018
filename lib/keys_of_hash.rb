@@ -7,7 +7,7 @@ class Hash
         array << location
       end 
     end
-    array
-  end 
+  end
+  array
   end
 end
