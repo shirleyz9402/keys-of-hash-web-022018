@@ -3,7 +3,7 @@ class Hash
     animals = {
       "red-footed tortoise" => "Panama",
       "aye-aye" => "Madagascar",
-      "tomato frog" => "Madagascar",
+      "tomato frog" => "Madagascar"
     }
   end
 end
