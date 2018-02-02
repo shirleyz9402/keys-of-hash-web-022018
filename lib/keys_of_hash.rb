@@ -2,7 +2,7 @@ class Hash
   def keys_of(*arguments)
   array = []
   arguments.each do |country|
-    animals.each do |animal, location|
+    animals do |animal, location|
       if location == country
         array << location
       end 
