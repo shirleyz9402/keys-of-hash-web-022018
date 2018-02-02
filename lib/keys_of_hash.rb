@@ -1,7 +1,7 @@
 class Hash
   def keys_of(arguments)
     animals = {
-      Panama => 
+      Panama => "red-footed tortoise"
     }
   end
 end
