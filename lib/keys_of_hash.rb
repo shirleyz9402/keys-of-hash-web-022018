@@ -4,7 +4,7 @@ class Hash
   arguments.each do |country|
     self.each do |animal, location|
       if location == country
-        array << location
+        array << animal
       end 
     end
   end
